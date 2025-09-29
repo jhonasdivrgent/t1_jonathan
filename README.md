@@ -1,4 +1,4 @@
-# Proyecto T1 - Sistema de Compras (Java + Maven + Hibernate)
+# Examen T1 - Sistema de Compras (Java + Maven + Hibernate)- JONATHAN CALDERÓN GAMARRA
 
 Este proyecto corresponde al Examen t1 del curso **Lenguaje de Programación II (Cibertec)**.  
 Permite gestionar **clientes y sus pedidos** mediante una aplicación de escritorio desarrollada en **Java (Swing)** con **Maven** y **Hibernate** para la persistencia en base de datos MySQL.
